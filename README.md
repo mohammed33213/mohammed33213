@@ -26,6 +26,8 @@ I'm still learning and improving my programming skills. I like building small pr
 - [LinkedIn](https://www.linkedin.com/in/mohammed-mohamoud-58851b369/)
 - [Codeforces](https://codeforces.com/profile/Ghost12342)
 
+### 📊 Codeforces Stats
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Ghost12342&theme=github_dark)
 ---
 
 *Learning something new every day.*
